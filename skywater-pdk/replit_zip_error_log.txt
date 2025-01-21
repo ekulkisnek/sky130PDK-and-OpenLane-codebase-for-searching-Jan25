@@ -1,0 +1,10 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/_ext/skywater_pdk","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_io","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_pr","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_sc_hd","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_sc_hdll","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_sc_hs","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_sc_ls","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/contents/libraries/sky130_fd_sc_ms","time":"2025-01-21T19:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file sky130github/docs/python-api","time":"2025-01-21T19:07:24Z"}
