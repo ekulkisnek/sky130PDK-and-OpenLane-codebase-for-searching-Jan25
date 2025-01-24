@@ -1,5 +1,5 @@
 
-# SkyWaterPDK AND OPENLANE BUILT FOR CODEBASE SEARCHING PURPOSES FOR ASIC DESIGN
+# SkyWaterPDK and OpenLane codebases for searching purposes for ASIC design. This repository was made so I could search through and make patches to both.
 
 ## Overview
 This repository contains documentation and technical resources for the SkyWater Open Source Process Design Kit (PDK). The PDK provides essential tools and information for designing integrated circuits using the SKY130 process technology.
